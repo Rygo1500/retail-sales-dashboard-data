@@ -1,0 +1,9 @@
+﻿producto,sku,categoria,precio_lista,costo,stock_minimo,proveedor
+Laptop HP,SKU-4198,Computadoras,2244,1359.8,36,Proveedor A
+Mouse Logitech,SKU-2124,Accesorios,11478,6200.51,43,Proveedor C
+Teclado Mecánico,SKU-3985,Accesorios,7197,4946.27,42,Proveedor B
+"Monitor LG 24""",SKU-9290,Computadoras,8964,6076.92,45,Proveedor A
+Webcam HD,SKU-6777,Accesorios,13215,7067.62,44,Proveedor B
+Auriculares Sony,SKU-4216,Accesorios,357,198.87,45,Proveedor B
+Tablet Samsung,SKU-4013,Computadoras,5376,3423.73,30,Proveedor A
+Disco Duro 1TB,SKU-3002,Accesorios,7493,4782.8,36,Proveedor B
